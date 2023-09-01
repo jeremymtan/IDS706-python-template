@@ -10,7 +10,5 @@ format:
 
 lint:
 	pylint --disable=R,C main.py
-
-refactor: format lint
 		
-all: install lint test 
+all: install lint format test 
