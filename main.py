@@ -11,24 +11,11 @@ def listMax(list):
 
 
 def doTest(list):
-    if list == None:
-        return None
-        pass
-    else:
-        n = len(list)
-        for i in range(0, n):
-            if i < n - 1:
-                pass
-            pass
-        pass
     max = listMax(list)
     if max == None:
         return None
-        pass
     else:
         return max
-        pass
-    pass
 
 
 def main():
@@ -42,4 +29,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    pass
