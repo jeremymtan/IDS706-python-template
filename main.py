@@ -1,6 +1,7 @@
-# taken from https://seaborn.pydata.org/examples/anscombes_quartet.html
-import seaborn as sns
+# taken from https://pytest.org/en/7.4.x/getting-started.html#run-multiple-tests
+def func(x):
+    return x + 1
 
-sns.set_theme(style="ticks")
 
-print("hello")
+def test_answer():
+    assert func(3) == 4
