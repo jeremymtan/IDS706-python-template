@@ -14,7 +14,7 @@ Some important stuff included are:
 ## Purpose of project
 The purpose of this project is to create a python template to use for later projects. To make sure github actions is working properly, I use a Makefile to test various parts of my code. To clarify, I made a simple function in main.py and use various test cases in test_main.py to make sure my code works correctly.
 
-## Prepration
+## Preparation
 1. open codespaces 
 2. wait for container to be built and virtual environment to be activated with requirements.txt installed 
 
