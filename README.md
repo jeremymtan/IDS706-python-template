@@ -23,11 +23,13 @@ The purpose of this project is to create a python template to use for later proj
 2. Lint code `make lint`
 
 eg: check lint errors:
+
 <img width="658" alt="Screenshot 2023-09-06 at 10 11 38 PM" src="https://github.com/jeremymtan/IDS706-python-template/assets/36715338/98471323-112d-4818-9c3b-7fc15b9b7927">
 
 3. Test code `make test`
 
 eg: check test cases:
+
 <img width="1376" alt="Screenshot 2023-09-06 at 10 11 58 PM" src="https://github.com/jeremymtan/IDS706-python-template/assets/36715338/caf8d3dc-4da0-4f76-9fe5-20805ecafa1a">
 
 
